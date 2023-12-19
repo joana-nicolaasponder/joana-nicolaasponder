@@ -14,7 +14,7 @@ So, here I am, all pumped up for collaborative innovation in this ever-changing 
 ### 📫 How to reach me: 
 
 - Have a look at my repos to see my journey and growth as a developer 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/joanaponder/) and let's chat about code, learning, or opportunities 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/joanaponder/) and let's chat about code, learning, improv, or your favorite Jim Carrey movie.
 
 <!--
 **joana-nicolaasponder/joana-nicolaasponder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
