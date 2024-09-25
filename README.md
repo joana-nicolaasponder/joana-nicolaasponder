@@ -1,20 +1,24 @@
 ### Hi there, I'm Joana (she/her) 👋
 
-The tech world always felt out of reach because I thought I wasn't smart enough for it. But then, bam! I ended up at Shopify and worked on this hackathon project with some developers. It hit me that the way they tackled problems was just like how I dealt with issues for my merchants. That's when I realized I could totally learn coding. 💻
+I used to think tech was out of reach, but everything changed when I worked on a hackathon project at Shopify. I realized the problem-solving skills I’d developed in my work were exactly what I needed to dive into coding. 💻
 
-🌟 I'm all about empathy, authenticity, love soaking up knowledge, and have this natural knack for problem-solving. Life's taken me through different countries and cultures, making me pretty adaptable. Plus, my time as a comedy improviser taught me that failing is cool—it's all about embracing mistakes as opportunities for growth. 🚀
+Now, I’m an aspiring Web Developer with a passion for empathy-driven solutions. I’m all about learning, growing, and embracing mistakes as stepping stones—something I picked up during my time as a comedy improviser. 🚀
 
-Now, my journey isn't just about personal growth; it's about diving into the tech scene with all I've got. I took a leap, swapped gears, and decided to become a **Full Stack Developer**. Why? Because I'm thirsty for hands-on learning, and I've got this itch to carve my own spot in the tech world. 🛠️
+Life has taken me through different countries and roles, making me adaptable and eager for new challenges. My journey into tech isn’t just about coding—it’s about combining creativity, problem-solving, and collaboration to make something meaningful.
 
-So, here I am, all pumped up for collaborative innovation in this ever-changing tech realm. I'm not just looking to fit in; I want to bring my unique, empathetic spin to the tech game. Let's make some waves and contribute something awesome to this dynamic tech world! 🌊
+### What I’m excited about:
+- Growing as a developer with hands-on experience
+- Collaborative projects that combine empathy and innovation
+- Carving out my own unique path in this dynamic industry 🌍
 
-### Open to Opportunties: 
-- If you're looking for a junior developer with a hunger to learn, who takes initiative, and is a team player, let's talk 📞 
-  
-### 📫 How to reach me: 
+### Open to Opportunities:
+If you're looking for a junior developer who's hungry to learn, adaptable, and brings a fresh perspective, let’s chat!
 
-- Have a look at my repos to see my journey and growth as a developer 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/joanaponder/) and let's chat about code, learning, improv, or your favorite Jim Carrey movie.
+📫 Connect with me:
+
+- Check out my repos to see my journey
+- Find me on [LinkedIn](https://www.linkedin.com/in/joanaponder/), and let’s talk tech, coding, or even improv. I’m always up for a conversation 
+
 
 <!--
 **joana-nicolaasponder/joana-nicolaasponder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
