@@ -35,7 +35,7 @@ I design digital tools that blend:
 ## 📫 Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/joanaponder/) → let’s talk tech, creative dev, or nonlinear careers  
-- [Bluesky/Blog](https://bsky.app/profile/levelupjo.bsky.social) → cozy devlogs, reflections, and tiny tools  
+- [Blog](https://joanaponder.com) → reflections and devlogs  
 - Or just explore my repos to see what I’m up to next 💡
 
 
