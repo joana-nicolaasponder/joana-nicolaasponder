@@ -1,23 +1,43 @@
-### Hi there, I'm Joana (she/her) 👋
+# 🌿 Hi, I’m Joana (she/her) 👋
 
-I used to think tech was out of reach, but everything changed when I worked on a hackathon project at Shopify. I realized the problem-solving skills I’d developed in my work were exactly what I needed to dive into coding. 💻
+My path into tech wasn't linear: 
 
-Now, I’m an aspiring Web Developer with a passion for empathy-driven solutions. I’m all about learning, growing, and embracing mistakes as stepping stones—something I picked up during my time as a comedy improviser. 🚀
+🎭 I chased expression through acting and photography in NYC.  
+🏬 I led retail operations and learned how systems support people.  
+🎤 Improv cracked me open — teaching me the power of play and presence.  
+💻 At Shopify, I saw how tech could empower users — and coding lit me up.
 
-Life has taken me through different countries and roles, making me adaptable and eager for new challenges. My journey into tech isn’t just about coding—it’s about combining creativity, problem-solving, and collaboration to make something meaningful.
+Now I’m weaving those threads together as a developer and creative builder.  
+I design digital tools that blend:
 
-### What I’m excited about:
-- Growing as a developer with hands-on experience
-- Collaborative projects that combine empathy and innovation
-- Carving out my own unique path in this dynamic industry 🌍
+- **Expression** → interfaces and flows that feel intuitive and alive  
+- **Systems** → clean architecture and scalable backend logic  
+- **Play** → joyful touches that make tech more human
 
-### Open to Opportunities:
-If you're looking for a junior developer who's hungry to learn, adaptable, and brings a fresh perspective, let’s chat!
+---
 
-📫 Connect with me:
+## 🛠️ What I’m building
 
-- Check out my repos to see my journey
-- Find me on [LinkedIn](https://www.linkedin.com/in/joanaponder/), and let’s talk tech, coding, or even improv. I’m always up for a conversation 
+- [**Backlog Explorer**](https://backlogexplorer.com) → a game-tracking app helping players reconnect with the games they already own  
+- **Personal projects** → that support reflection, learning, and joyful creation  
+- **Small games & experiments** → playful projects in PICO-8 and beyond
+
+---
+
+## 🌱 What I bring
+
+- Resilience, curiosity, and adaptability from a zig-zagging creative career  
+- A builder’s mindset → I learn fast, iterate with care, and ship with joy  
+- A deep love of blending **design thinking, problem-solving, and storytelling**
+
+---
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/joanaponder/) → let’s talk tech, creative dev, or nonlinear careers  
+- [Bluesky/Blog](https://bsky.app/profile/levelupjo.bsky.social) → cozy devlogs, reflections, and tiny tools  
+- Or just explore my repos to see what I’m up to next 💡
+
 
 
 <!--
