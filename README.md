@@ -7,28 +7,27 @@ My path into tech wasn't linear:
 🎤 Improv cracked me open — teaching me the power of play and presence.  
 💻 At Shopify, I saw how tech could empower users — and coding lit me up.
 
-Now I’m weaving those threads together as a developer and creative builder.  
-I design digital tools that blend:
+Now I'm a **Full Stack Developer** building production applications with 2+ years of hands-on experience. I specialize in React, TypeScript, and Node.js, creating digital tools that blend:
 
-- **Expression** → interfaces and flows that feel intuitive and alive  
-- **Systems** → clean architecture and scalable backend logic  
-- **Play** → joyful touches that make tech more human
-
----
-
-## 🛠️ What I’m building
-
-- [**Backlog Explorer**](https://backlogexplorer.com) → a game-tracking app helping players reconnect with the games they already own  
-- **Personal projects** → that support reflection, learning, and joyful creation  
-- **Small games & experiments** → playful projects in PICO-8 and beyond
+- **Intuitive Design** → user-focused interfaces and smooth interaction flows  
+- **Scalable Architecture** → normalized databases, API integrations, and performance optimization  
+- **Production Quality** → testing, monitoring, and maintaining systems that serve real users
 
 ---
 
-## 🌱 What I bring
+## 🛠️ Featured Work
 
-- Resilience, curiosity, and adaptability from a zig-zagging creative career  
-- A builder’s mindset → I learn fast, iterate with care, and ship with joy  
-- A deep love of blending **design thinking, problem-solving, and storytelling**
+- [**Backlog Explorer**](https://backlogexplorer.com) → Production SaaS platform managing 1000+ game records with complex filtering, API integrations, and performance optimization  
+- **Frontend Development** → React/TypeScript applications with custom state management and responsive design  
+- **Backend Systems** → Node.js APIs, PostgreSQL databases, and authentication systems
+
+---
+
+## 🌱 Technical Skills & Experience
+
+- **Frontend:** React, TypeScript, JavaScript, responsive design, complex state management  
+- **Backend:** Node.js, PostgreSQL, API design, database optimization, authentication  
+- **Professional:** Problem-solving, user empathy, team collaboration, and learning agility from diverse career background
 
 ---
 
