@@ -7,7 +7,7 @@ My path into tech wasn't linear:
 🎤 Improv cracked me open — teaching me the power of play and presence.  
 💻 At Shopify, I saw how tech could empower users — and coding lit me up.
 
-Now I'm a **Full Stack Developer** building production applications with 2+ years of hands-on experience. I specialize in React, TypeScript, and Node.js, creating digital tools that blend:
+Now I'm a **Full Stack Developer** building production applications. I specialize in React, TypeScript, and Node.js, creating digital tools that blend:
 
 - **Intuitive Design** → user-focused interfaces and smooth interaction flows  
 - **Scalable Architecture** → normalized databases, API integrations, and performance optimization  
@@ -18,8 +18,6 @@ Now I'm a **Full Stack Developer** building production applications with 2+ year
 ## 🛠️ Featured Work
 
 - [**Backlog Explorer**](https://backlogexplorer.com) → Production SaaS platform managing 1000+ game records with complex filtering, API integrations, and performance optimization  
-- **Frontend Development** → React/TypeScript applications with custom state management and responsive design  
-- **Backend Systems** → Node.js APIs, PostgreSQL databases, and authentication systems
 
 ---
 
